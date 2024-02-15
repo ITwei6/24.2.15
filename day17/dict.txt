@@ -1,0 +1,7 @@
+apple:苹果
+yellow:黄色
+red:红色
+bule:蓝色
+man:男人
+woman:女人
+hello:你好
